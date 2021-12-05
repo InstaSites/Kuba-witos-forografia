@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://Kuba.photos/sitemap.xml
